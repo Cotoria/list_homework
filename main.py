@@ -5,7 +5,7 @@ from list1 import plates_list
 from collections import Counter
 
 # checking input
-search = str(input("Search for your plate: "))
+search = input("Search for your plate: ")
 
 if search.upper() in plates_list:
     print("Yup, your plate is here :)")
