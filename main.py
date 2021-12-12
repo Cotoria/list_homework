@@ -1,4 +1,4 @@
-# importing list in different file for usability
+# importing list from different file for usability
 from list1 import plates_list
 
 # importing counter for unique elements
